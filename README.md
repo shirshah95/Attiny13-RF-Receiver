@@ -1,4 +1,4 @@
-# Attiny13RFDecoder
+# Attiny13 RF Receiver
 It is mostly taken from https://sites.google.com/site/sergiosprojects/tiny-rf-decoder
 i just made some changes for my application
 ## To upload code you need to follow these steps:
